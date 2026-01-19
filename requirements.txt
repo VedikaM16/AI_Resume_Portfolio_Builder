@@ -1,0 +1,8 @@
+streamlit
+requests
+python-dotenv
+jinja2
+transformers 
+torch 
+scikit-learn
+sentencepiece
